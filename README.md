@@ -1,6 +1,6 @@
 ### I'm FXC7BOT Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 <p align="center">
-<a href="https://github.com/Fxc7"><img src="https://raw.githubusercontent.com/Fxc7/termux-bot-wa/main/src/glitchtext.png"></a>
+<a href="https://github.com/RANS_BOT"><img src="https://raw.githubusercontent.com/bot-whatsapp/termux-bot-wa/main/src/glitchtext.png"></a>
 </p>
 <br>
 
