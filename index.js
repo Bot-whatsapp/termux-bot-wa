@@ -67,7 +67,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'END:VCARD'
 
 prefix = "!"
-name = "~ D N S | B O T"
+name = "~ R A N S | B O T"
 rdaftar = "TERIMA KASIH TELAH DAFTAR😁"
 rmenu = "デ ニ ス"
 limitt = 99999999
